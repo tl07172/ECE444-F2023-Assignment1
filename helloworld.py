@@ -1,3 +1,2 @@
 #python program to print hello world
-print('Hello World')
-print('I have been at UofT for 4 years')
+print('Hello World My name is Tim (Zhihan) Lin and I have been at UofT for 4 years')
