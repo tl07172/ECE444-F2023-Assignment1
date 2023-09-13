@@ -26,10 +26,10 @@ class utils_tests(unittest.TestCase):
         self.assertEqual(Utils.formatter(9),('0b1001','0o11'), message2)
         
         #test formatter with float input
-        self.assertEqual(Utils.formatter(9.9),(1001,11), message2)
+        self.assertEqual(Utils.formatter(9.9),('0b1001','0o11'), message2)
         
         #test formatter with string input
-        self.assertEqual(Utils.formatter("test"),(1001,11), message2)
+        self.assertEqual(Utils.formatter("test"),('0b1001','0o11'), message2)
 
 if __name__ == '__main__':
 	unittest.main()
