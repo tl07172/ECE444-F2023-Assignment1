@@ -10,5 +10,8 @@
 ### Activity 3:
 ![image](https://github.com/tl07172/ECE444-F2023-Assignment1/assets/84355002/9c1b4b94-7baa-4649-b2fd-04f4eb333a8e)
 
+### Activity 4:
+![image](https://github.com/tl07172/ECE444-F2023-Assignment1/assets/84355002/ac2a17e6-ac27-45bc-9029-0a8b1c5a61b3)
+
 
 ECE444 Course Page
