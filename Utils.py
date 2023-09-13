@@ -1,4 +1,4 @@
-class Utils:
+class utils:
     def reversed(number):
         if isinstance(number,int):
             return int(str(number)[::-1])
