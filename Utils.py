@@ -1,3 +1,4 @@
+
 class utils:
     def reversed(number):
         if isinstance(number,int):
@@ -11,3 +12,4 @@ class utils:
         else:
             print("Input type is wrong")
             
+
